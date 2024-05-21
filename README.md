@@ -28,14 +28,10 @@
 * [Actions Resource Controller (ARC)](https://github.com/actions/actions-runner-controller)
 * [ARC documentation](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners-with-actions-runner-controller/about-actions-runner-controller)
 
-## Pricing
-
-[click](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions)
-
 ## Misc
 
+* [Pricing](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions)
 * [Actions marketplace](https://github.com/marketplace)
-
 
 ## Interesting actions and tools
 
