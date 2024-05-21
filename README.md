@@ -2,7 +2,10 @@
 
 ## Learning material
 
-## Migration
+* [triggers](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)
+* [guides and tutorials](https://docs.github.com/en/actions/guides)
+
+## Migrating from Jenkins
 
 * [manual](https://docs.github.com/en/actions/migrating-to-github-actions/manually-migrating-to-github-actions/migrating-from-jenkins-to-github-actions)
 * [supported Jenkins plugins](https://github.com/github/gh-actions-importer/tree/main/docs/jenkins)
@@ -32,3 +35,9 @@
 ## Misc
 
 * [Actions marketplace](https://github.com/marketplace)
+
+
+## Interesting actions and tools
+
+* [Issue similarity analysis](https://github.com/actions-cool/issues-similarity-analysis)
+* [act](https://github.com/nektos/act)
